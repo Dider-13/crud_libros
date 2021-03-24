@@ -1,0 +1,10 @@
+form{
+    text-align: center;
+}
+h1{
+    color: aquamarine;
+}
+.centrado{
+    display: flex;
+    justify-content: center;
+}
